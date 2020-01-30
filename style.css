@@ -1,0 +1,45 @@
+ img {
+width: 400px;
+height: 400px;
+margin-right: 70px;
+border-radius: 100%;
+
+} 
+*{
+    box-sizing: border-box;
+} 
+/* body{
+    background-image: url(img/IM9A5366.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    position:absolute;
+   
+}  */
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+.button:active {
+    background-color:green;
+    color: white;
+    
+    
+}
+button:hover{
+ color: white;
+ background-color: black;
+}
+div{
+    width: 40%;
+    float: left;
+}
+
+ div .red {
+     width: 40%;
+float: right;   
+
+} 
